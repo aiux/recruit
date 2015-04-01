@@ -10,6 +10,7 @@
 
 - [iOS]
 - [Android]
+- [Web 产品开发（后端）]
 - 欢迎 pull request 添加其它职位
 
 FAQ
@@ -74,3 +75,4 @@ License
 [CC BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/
 [iOS]:      jobs/iOS.md
 [Android]:  jobs/Android.md
+[Web 产品开发（后端）]: jobs/Web-backend.md
