@@ -1,7 +1,7 @@
 灰狐开放职位需求
 ============
 
-灰狐开放职位需求是基于 [@clowwindy](https://github.com/clowwindy) 同学的开放职位需求的基础上展开的。
+灰狐开放职位需求在 [@clowwindy](https://github.com/clowwindy) 同学的开放职位需求的基础上展开和丰富。
 
 职位列表
 --------
@@ -22,7 +22,7 @@
 - 我们常常聚在某个咖啡馆工作一下午
 
 核心业务
-
+--------
 ![灰狐2015](http://code.huihoo.com/uploads/huihoo/team/856f5861e0/%E7%81%B0%E7%8B%903%E5%A4%A7%E8%B5%B0%E5%90%91.png)
 
 FAQ
@@ -77,6 +77,11 @@ TODO
 ----
 
 - 编写其它职位的要求
+
+投递方式
+--------
+
+发送简历至 11775717(AT)qq.com
 
 License
 -------
