@@ -1,15 +1,12 @@
 灰狐开放职位需求
 ============
 
-灰狐开放职位需求是基于 @clowwindy 同学的开放职位需求的基础上展开的。
-
-这份招聘要求原本是为知乎招聘写的。考虑到大部分公司的需求其实是共通的，
-不如开放出来，让所有需要招募工程师的人共同维护，
-也为正在学习和寻找工作的同学们提供一份学习方向的指引
+灰狐开放职位需求是基于 [@clowwindy](https://github.com/clowwindy) 同学的开放职位需求的基础上展开的。
 
 职位列表
 --------
 
+- [Erlang]
 - [iOS]
 - [Android]
 - [Web 产品开发（后端）]
@@ -75,6 +72,7 @@ License
 
 
 [CC BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/
+[Erlang]:    jobs/Erlang.md
 [iOS]:      jobs/iOS.md
 [Android]:  jobs/Android.md
 [Web 产品开发（后端）]: jobs/Web-backend.md
