@@ -14,6 +14,17 @@
 - [Android]
 - 欢迎 pull request 添加其它职位
 
+工作方式
+--------
+- Work = Play: The Huihoo Work Equation
+- 我们在成都高新区、软件园有办公室
+- 我们鼓励你在家远程工作，免去上班往返的辛苦和时间
+- 我们常常聚在某个咖啡馆工作一下午
+
+核心业务
+
+![灰狐2015](http://code.huihoo.com/uploads/huihoo/team/856f5861e0/%E7%81%B0%E7%8B%903%E5%A4%A7%E8%B5%B0%E5%90%91.png)
+
 FAQ
 ---
 
