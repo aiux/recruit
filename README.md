@@ -5,17 +5,19 @@
 
 职位列表
 --------
-
+- [产品经理]
+- [UI/UX设计师]
+- [Web 产品开发（前端）]
+- [Web 产品开发（后端）]
 - [Erlang]
 - [iOS]
 - [Android]
-- [Web 产品开发（后端）]
 - 欢迎 pull request 添加其它职位
 
 FAQ
 ---
 
-- Q: 为什么有些职位只有实习生和高级开发两个职位？  
+- Q: 为什么有些职位只有实习生和工程师两个职位？  
   A: 通过这两个职位，定义了一个连续区间，这是一个非常大的范围。
      在实际中一般公司都是各种 level 的人都招，根据能力来定 offer，而不拘泥于职位。
 
@@ -72,6 +74,9 @@ License
 
 
 [CC BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/
+[产品经理]:     jobs/Product-manager.md
+[UI/UX设计师]:  jobs/UI-UX-designer.md
+[Web 产品开发（前端）]:   jobs/Web-front.md
 [Erlang]:    jobs/Erlang.md
 [iOS]:      jobs/iOS.md
 [Android]:  jobs/Android.md
