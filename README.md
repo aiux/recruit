@@ -11,6 +11,7 @@
 - [Web 产品开发（后端）]
 - [Python]
 - [Erlang]
+- [Ruby]
 - [iOS]
 - [Android]
 - 欢迎 pull request 添加其它职位
@@ -96,6 +97,7 @@ License
 [Web 产品开发（前端）]:   jobs/Web-front.md
 [Python]:    jobs/Python.md
 [Erlang]:    jobs/Erlang.md
+[Ruby]:      jobs/Ruby.md
 [iOS]:      jobs/iOS.md
 [Android]:  jobs/Android.md
 [Web 产品开发（后端）]: jobs/Web-backend.md
