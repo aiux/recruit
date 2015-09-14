@@ -9,6 +9,7 @@
 - [UI/UX设计师]
 - [Web 产品开发（前端）]
 - [Web 产品开发（后端）]
+- [Python]
 - [Erlang]
 - [iOS]
 - [Android]
@@ -93,6 +94,7 @@ License
 [产品经理]:     jobs/Product-manager.md
 [UI/UX设计师]:  jobs/UI-UX-designer.md
 [Web 产品开发（前端）]:   jobs/Web-front.md
+[Python]:    jobs/Python.md
 [Erlang]:    jobs/Erlang.md
 [iOS]:      jobs/iOS.md
 [Android]:  jobs/Android.md
