@@ -1,4 +1,4 @@
-我们已有了Objective-C工程师，2016年再始招募Swift实习生和Swift工程师：
+我们已有了Objective-C工程师，2016年再招募Swift实习生和Swift工程师：
 
 Swift实习生
 --------------
