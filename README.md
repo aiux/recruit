@@ -16,8 +16,6 @@
 - [Python]
 - [Erlang]
 - [Ruby]
-- [iOS]
-- [Android]
 - 欢迎 pull request 添加其它职位
 
 工作方式
@@ -104,6 +102,4 @@ License
 [Python]:    jobs/Python.md
 [Erlang]:    jobs/Erlang.md
 [Ruby]:      jobs/Ruby.md
-[iOS]:      jobs/iOS.md
-[Android]:  jobs/Android.md
 [Web 产品开发（后端）]: jobs/Web-backend.md
