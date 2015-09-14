@@ -3,6 +3,10 @@
 
 灰狐开放职位需求在 [@clowwindy](https://github.com/clowwindy) 同学的开放职位需求的基础上展开和丰富。
 
+关于灰狐
+--------
+有关灰狐的故事，一句半句也说不清楚，你可先看看关于[灰狐的开放百科](http://wiki.huihoo.com/wiki/Huihoo)，内容有点多
+
 职位列表
 --------
 - [产品经理]
