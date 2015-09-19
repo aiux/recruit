@@ -7,6 +7,16 @@
 --------
 有关灰狐的故事，一句半句也说不清楚，你可先看看关于[灰狐的开放百科](http://wiki.huihoo.com/wiki/Huihoo)，内容有点多
 
+灰狐工程师文化：黑客文化 + 工匠精神
+
+如果你是  
+
+![programmer](http://wiki.huihoo.com/images/7/79/I-am-programmer.jpg)
+
+且还是 Vim、Emacs、Atom 的重度用户，那灰狐应该是你的去处，我们欢迎你。
+
+(ps: 图片来自[I’m Programmer](http://www.improgrammer.net/))
+
 职位列表
 --------
 - [产品经理]
