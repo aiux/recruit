@@ -68,6 +68,22 @@ Python 工程师
 -	有国外学习或工作经历
 -	以及其它任何你觉得牛逼的技能或经验
 
+Python大数据全栈工程师
+----------------------
+
+[大数据全栈式开发语言 – Python](http://www.techug.com/full-stack-python)
+
+因为应用开发工程师、运维工程师、数据科学家都喜欢 Python，使得 Python 成为大数据系统的全栈式开发语言。
+
+| 领域 | 流行语言 |
+| -------- | -------- |
+| 云基础设施   | Python, Java, Go |
+| DevOps   | Python, Shell, Ruby, Go |
+| 网络爬虫   | Python, PHP, C++ |
+| 数据处理   | Python, R, Scala |
+
+我们正在寻找Python大数据全栈工程师
+
 投递方式
 --------
 
