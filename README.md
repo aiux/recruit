@@ -23,11 +23,13 @@
 - [UI/UX设计师]
 - [Web 产品开发（前端）]
 - [Web 产品开发（后端）]
-- [Python]
 - [Erlang]
+- [Python]
 - [Ruby]
 - [PHP]
-- 欢迎 pull request 添加其它职位
+- [更多职位介绍](https://github.com/huihoo/recruit/tree/master/jobs)，也欢迎 pull request 添加其它职位
+
+除了灰狐提供的这些工作外，[Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 还收集整理了更多远程办公的工作机会。
 
 工作方式
 --------
