@@ -15,7 +15,7 @@ ps: 哈哈，X客，可能是黑客、创客、极客、宽客 ...
 
 ![programmer](http://wiki.huihoo.com/images/7/79/I-am-programmer.jpg)
 
-碰巧还是 Vim、VSCode、Sublime 的用户，那AIUX应该是你的去处，我们欢迎你。
+碰巧还是 Vim、VSCode 的用户，那AIUX应该是你的去处，我们欢迎你。
 
 (ps: 图片来自[I’m Programmer](http://www.improgrammer.net/))
 
@@ -106,7 +106,7 @@ TODO
 投递方式
 --------
 
-发送简历至 hr(AT)aixu(DOT)cc
+发送简历至 hr(AT)aiux(DOT)cc
 
 License
 -------
