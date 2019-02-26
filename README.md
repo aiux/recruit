@@ -19,7 +19,8 @@ ps: 哈哈，X客，可能是黑客、创客、极客、宽客 ...
 
 (ps: 图片来自[I’m Programmer](http://www.improgrammer.net/))
 
-产品类型：
+产品类型
+--------
 - 移动应用（iOS/Android）
 - 微信号/H5网页
 - 智能硬件
