@@ -1,21 +1,28 @@
-灰狐开放职位需求
+艾体验AIUX开放职位需求
 ============
 
-灰狐开放职位需求在 [@clowwindy](https://github.com/clowwindy) 同学的开放职位需求的基础上展开和丰富。
+艾体验AIUX正在这里等着你呢 :)
 
-关于灰狐
+关于艾体验AIUX
 --------
-有关灰狐的故事，一句半句也说不清楚，你可先看看关于[灰狐的开放百科](http://wiki.huihoo.com/wiki/Huihoo)，内容有点多
+有关艾体验AIUX的故事，一句半句也说不清楚，你可先看看公司官网：[艾体验 AIUX](http://aiuxstudio.com/)。
 
-灰狐工程师：黑客文化 + 工匠精神
+AIUX工程师：创客文化 + 工匠精神
 
 如果你是  
 
 ![programmer](http://wiki.huihoo.com/images/7/79/I-am-programmer.jpg)
 
-碰巧还是 Vim、Emacs、Atom 的用户，那灰狐应该是你的去处，我们欢迎你。
+碰巧还是 Vim、Emacs、Atom 的用户，那AIUX应该是你的去处，我们欢迎你。
 
 (ps: 图片来自[I’m Programmer](http://www.improgrammer.net/))
+
+产品类型：
+- 移动应用（iOS/Android）
+- 微信号/H5网页
+- 智能硬件
+- 电商/网店
+- PC网站/软件
 
 职位列表
 --------
@@ -23,27 +30,22 @@
 - [UI/UX设计师]
 - [Web 产品开发（前端）]
 - [Web 产品开发（后端）]
-- [Erlang]
 - [Python]
-- [Ruby]
-- [PHP]
-- [更多职位介绍](https://github.com/huihoo/recruit/tree/master/jobs)，也欢迎 pull request 添加其它职位
-
-除了灰狐提供的这些工作外，[Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 还收集整理了更多远程办公的工作机会。
+- [更多职位介绍](https://github.com/aiux/recruit/tree/master/jobs)，也欢迎 pull request 添加其它职位
 
 工作方式
 --------
-- Work = Play: The Huihoo Work Equation
-- 我们是一群寻找自由职业工作的人，生活和工作的完美统一是我们一直追求的
-- 我们办公室在成都高新区、天府软件园，大家可聚在一起工作，未来会扩展到其它城市和地区
-- 我们也鼓励你在家远程办公，免去上下班往返的辛苦，省下时间多照顾家庭，多陪陪家人和宠物
-- 我们常常聚在某个咖啡馆工作一天或一个下午
+- Work = Play: The AIUX Work Equation
+- 我们是一群追寻智能交互、智慧人生的人，生活和工作的完美统一是我们一直追求的
+- 我们办公室在成都天府软件园，大家可聚在一起工作，未来会扩展到其它城市和地区
+- 我们也支持你申请在家远程办公，免去上下班往返的辛苦，省下时间多照顾家庭，多陪陪家人和宠物
+- 我们也常常聚在某个咖啡馆工作一天或一个下午
 - 我们一年有一次去一个山清水秀的地方呆上几天：静静的想些东西、好好规划下未来
 - [旅行，写作，编程](http://www.vaikan.com/traveling-writing-programming/)：对于程序员来说，有个得天独厚的条件，就是这种职业可以远程工作或边旅游边工作，这是其它职业办不到的，我们希望一起努力过上这样的生活。
 
 核心业务
 --------
-![灰狐2015](http://code.huihoo.com/uploads/huihoo/team/856f5861e0/%E7%81%B0%E7%8B%903%E5%A4%A7%E8%B5%B0%E5%90%91.png)
+前沿科技、智能交互，价值增长
 
 FAQ
 ---
@@ -56,7 +58,7 @@ FAQ
   A: 没有关系，只要自学过编程基础就可以投递。
 
 - Q: 我在别的城市，能否远程面试？  
-  A: 可以电话 或 Skype 面试。
+  A: 可以电话 或 微信 面试。
 
 - Q: 对简历有什么要求？  
   A: 我们希望尽可能多地了解你的性格、能力和经验。所以，可以附上你的社交网络账号，
@@ -83,8 +85,8 @@ FAQ
   它应该是应该和这个职位有紧密关系的
 - 撰写时站在读者的角度思考他们的想法，可以让这份要求显得不那么死板和空洞，
   比如校招和社招写法就是不同的
-- 避免一些用烂的空洞写法，如深入理解 Java 原理、良好的团队合作能力等。
-  深入理解 Java 原理可以改为比如熟悉 JVM 实现这样更具体的要求，
+- 避免一些用烂的空洞写法，如深入理解 Python 原理、良好的团队合作能力等。
+  深入理解 Python 原理可以改为比如熟悉 Python 实现这样更具体的要求，
   良好的团队合作能力可以是会收集需求、能组织高效讨论、熟悉项目管理工具等等
 - 经验不应该用年份和数量来衡量，要看质而不是看量，
   一个五年工作经验的人工作成果未必高于一个作风严谨的实习生
@@ -101,20 +103,16 @@ TODO
 投递方式
 --------
 
-发送简历至 11775717(AT)qq.com
+发送简历至 hr(AT)aixu(DOT)cc
 
 License
 -------
 
 [CC BY-SA]
 
-
 [CC BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/
 [产品经理]:     jobs/Product-manager.md
 [UI/UX设计师]:  jobs/UI-UX-designer.md
 [Web 产品开发（前端）]:   jobs/Web-front.md
 [Python]:    jobs/Python.md
-[Erlang]:    jobs/Erlang.md
-[Ruby]:      jobs/Ruby.md
-[PHP]:       jobs/PHP.md
 [Web 产品开发（后端）]: jobs/Web-backend.md
