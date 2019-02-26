@@ -69,14 +69,14 @@ Python全栈工程师
 
 [数据科学、机器学习全栈式开发语言 – Python](http://www.techug.com/full-stack-python)
 
-因为应用开发工程师、运维工程师、机器学习、数据科学家都喜欢 Python，使得 Python 成为数据科学、机器学习的全栈式开发语言。
+因为Web开发工程师、运维工程师、机器学习、数据科学家都喜欢 Python，使得 Python 成为数据科学、机器学习的全栈式开发语言。
 
 | 领域 | 流行语言 |
 | -------- | -------- |
-| 云基础设施   | Python, Java, Go |
-| DevOps   | Python, Shell, Go |
+| 云计算   | Python, Java, Go |
+| DevOps   | Python, Shell, Ruby, Go |
 | 网络爬虫   | Python, PHP, C++ |
-| 数据处理   | Python, R, Java |
+| 数据处理   | Python, R, Scala |
 
 我们正在寻找Python全栈工程师
 
