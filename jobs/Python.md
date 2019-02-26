@@ -1,20 +1,16 @@
-Python at Huihoo
+Python at AIUX
 ------------------
-- 我们正在寻找Django工程师
-- 灰狐社区/内容管理Mezzanine的开发和运维
-- 灰狐E3/Odoo/oscar/erpnext Python系统开发和运维
-- Hadoop分析平台Hue的开发和运维
-- OpenStack的Hack和开发运维
-- 大数据、机器学习、自然语言处理的Python工程师
-- Zabbix统计系统PyZabbix相关开发
-- 灰狐教育edX的开发和运维
+- 我们正在寻找Python & Django工程师
+- AIUX社区/内容管理的开发和运维
+- 数据分析平台的开发和运维
+- 机器学习、自然语言处理的Python工程师
 
 Python实习生
 ------------------
 
 职位描述
 
--	参与灰狐社区和Django内容管理系统开发
+-	参与AIUX社区和Django内容管理系统开发
 
 任职资格
 
@@ -46,10 +42,10 @@ Python 工程师
 
 职位描述
 
--	灰狐社区开发与运维
--	狗狗账号系统开发和运维
-- 灰狐E3开发和运维
-- 灰狐D3开发和运维
+-	AIUX社区开发与运维
+-	数据分析系统开发和运维
+- 机器学习系统开发和运维
+- NLP系统开发和运维
 
 任职资格
 
@@ -68,24 +64,24 @@ Python 工程师
 -	有国外学习或工作经历
 -	以及其它任何你觉得牛逼的技能或经验
 
-Python大数据全栈工程师
+Python全栈工程师
 ----------------------
 
-[大数据全栈式开发语言 – Python](http://www.techug.com/full-stack-python)
+[数据科学、机器学习全栈式开发语言 – Python](http://www.techug.com/full-stack-python)
 
-因为应用开发工程师、运维工程师、数据科学家都喜欢 Python，使得 Python 成为大数据系统的全栈式开发语言。
+因为应用开发工程师、运维工程师、机器学习、数据科学家都喜欢 Python，使得 Python 成为数据科学、机器学习的全栈式开发语言。
 
 | 领域 | 流行语言 |
 | -------- | -------- |
 | 云基础设施   | Python, Java, Go |
-| DevOps   | Python, Shell, Ruby, Go |
+| DevOps   | Python, Shell, Go |
 | 网络爬虫   | Python, PHP, C++ |
-| 数据处理   | Python, R, Scala |
+| 数据处理   | Python, R, Java |
 
-我们正在寻找Python大数据全栈工程师
+我们正在寻找Python全栈工程师
 
 投递方式
 --------
 
-发送简历至 11775717(AT)qq.com
+发送简历至 hr(AT)aiux(DOT)cc
 
