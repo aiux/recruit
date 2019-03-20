@@ -34,6 +34,7 @@ ps: 哈哈，X客，可能是黑客、创客、极客、宽客 ...
 - [Web 产品开发（前端）]
 - [Web 产品开发（后端）]
 - [Python]
+- [智能硬件工程师]
 - [更多职位介绍](https://github.com/aiux/recruit/tree/master/jobs)，也欢迎 pull request 添加其它职位
 
 工作方式
@@ -119,3 +120,4 @@ License
 [Web 产品开发（前端）]:   jobs/Web-front.md
 [Python]:    jobs/Python.md
 [Web 产品开发（后端）]: jobs/Web-backend.md
+[智能硬件工程师]: jobs/AI-hardware.md
